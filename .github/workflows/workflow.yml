@@ -33,5 +33,5 @@ jobs:
         uses: google-github-actions/upload-cloud-storage@main
         with:
           credentials: ${{ secrets.gcp_credentials }}
-          path: /current/cookie-consent.md
+          path: ./current/cookie-consent.md
           destination: unaty-prod/policies
