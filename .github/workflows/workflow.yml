@@ -14,9 +14,7 @@ on:
   workflow_dispatch:
 
 env:
-    GCP_SERVICE_ACCOUNT_KEY_FILE: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY_FILE }}
-    GCP_STORAGE_BUCKET: ${{ secrets.GCP_STORAGE_BUCKET }}
-    SOURCE_DIR: "public"
+    GCS_BUCKET: ${{ secrets.GCS_BUCKET }}
           
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
