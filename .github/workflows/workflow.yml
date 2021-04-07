@@ -37,7 +37,3 @@ jobs:
         with:
           path: /current
           destination: unaty-prod/policies
-
-      - name: Deploy
-        run: |-
-          gsutil -m rsync -R output gs://$GCS_BUCKET
