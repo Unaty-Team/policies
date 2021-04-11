@@ -32,5 +32,5 @@ jobs:
         uses: google-github-actions/upload-cloud-storage@main
         with:
           credentials: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_UNATY_PROD }}
-          path: /current
+          path: ./current
           destination: unaty-prod.appspot.com/policies
