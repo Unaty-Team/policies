@@ -7,10 +7,10 @@
 - **Bindung an Kundenentscheidungen für Mitglieder**  
 - **Geschäftsverhältnis zwischen Kunden, Nutzern und Unaty**  
 - **Allgemeine Nutzungsbedinungen**  
- - **Geschäftsfähigkeit der Nutzer**  
- - **Akzeptanz des Unaty + Community Verhaltenskodex**  
- - **Geltungsbereich innerhalb und außerhalb von Communities**  
- - **Eingriff in die Nutzung im Falle von Verstößen**  
+    - **Geschäftsfähigkeit der Nutzer**  
+    - **Akzeptanz des Unaty + Community Verhaltenskodex**  
+    - **Geltungsbereich innerhalb und außerhalb von Communities**  
+    - **Eingriff in die Nutzung im Falle von Verstößen**  
 - **Haftung**  
 - **E-Mails und Unaty-Nachrichten**  
 - **Datenschutz**  

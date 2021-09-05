@@ -3,9 +3,9 @@
 ***
 
 - **Unser verpflichtender Verhaltenskodex = So wollen wir zusammenarbeiten**   
- - **Gebote = Das musst Du auf Unaty befolgen**   
- - **Verbote = Das darfst Du auf Unaty nicht tun**   
- - **Unaty kontaktieren**   
+    - **Gebote = Das musst Du auf Unaty befolgen**   
+    - **Verbote = Das darfst Du auf Unaty nicht tun**   
+    - **Unaty kontaktieren**   
 
 ***
 

@@ -4,17 +4,17 @@
 
 - **Entities responsible for the collection and processing of personal data on www.getunaty.com**  
 - **Collection of personal data of the visitors of www.getunaty.com**  
- - **Log files**  
- - **Analytics with cookies and tag manager**  
+    - **Log files**  
+    - **Analytics with cookies and tag manager**  
 - **Collection of personal data when contacting Unaty via the website**  
- - **Contact**  
- - **Receive newsletter and updates**  
+    - **Contact**  
+    - **Receive newsletter and updates**  
 - **Conclusion of contract and consent to this privacy policy**  
 - **Rights of data subjects and how they can be exercised**  
- - **A. Revocation of consent**  
- - **B. Further data subject rights**  
- - **C. Contact ways**  
- - **D. Right to complain to a supervisory authority**  
+    - **A. Revocation of consent**  
+    - **B. Further data subject rights**  
+    - **C. Contact ways**  
+    - **D. Right to complain to a supervisory authority**  
 
 ***
 

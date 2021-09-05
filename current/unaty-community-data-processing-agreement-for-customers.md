@@ -4,17 +4,17 @@
 
 - **Preamble**   
 - **Section I**   
- - **Clause 1: Purpose and scope**   
- - **Clause 2: Invariability of the clauses**   
- - **Clause 3: Interpretation**   
- - **Clause 4: Hierarchy**   
+    - **Clause 1: Purpose and scope**   
+    - **Clause 2: Invariability of the clauses**   
+    - **Clause 3: Interpretation**   
+    - **Clause 4: Hierarchy**   
 - **Section II: Obligations of the parties**   
- - **Clause 6: Description of the processings**   
- - **Clause 7: Obligations of the parties**   
- - **Clause 8: Assistance to the controller**   
- - **Clause 9: Notification of personal data breaches**   
+    - **Clause 6: Description of the processings**   
+    - **Clause 7: Obligations of the parties**   
+    - **Clause 8: Assistance to the controller**   
+    - **Clause 9: Notification of personal data breaches**   
 - **Section III: Final provisions**   
- - **Clause 10: Violations of the clauses and termination of the contract**   
+    - **Clause 10: Violations of the clauses and termination of the contract**   
 - **Annex I: List of parties**   
 - **Annex II: Description of the processing**   
 - **Annex III: Technical and organizational measures, including to ensure the security of data**   

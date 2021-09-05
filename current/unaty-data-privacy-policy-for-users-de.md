@@ -5,32 +5,32 @@
 - **Verantwortliche für personenbezogene Daten auf Unaty**   
 - **1. Erhebung personenbezogener Daten der Websitebesucher von www.getunaty.com**  
 - **2. Erhebung von personenbezogenen Daten von Nutzern bei allgemeiner Nutzung**  
- - **Erhobene Daten:**  
- - **Zwecke der Datenverarbeitung:**  
- - **Rechtsgrundlage:**  
- - **Speicherdauer und Steuerungsoptionen:**  
+    - **Erhobene Daten**  
+    - **Zwecke der Datenverarbeitung**  
+    - **Rechtsgrundlage**  
+    - **Speicherdauer und Steuerungsoptionen**  
 - **3. Erhebung von personenbezogenen Daten bei der Kontaktaufnahme mit Unaty über Feedbackfunktionen unserer Online-Services**  
- - **Erhobene Daten**  
- - **Zwecke der Datenverarbeitung**  
- - **Rechtsgrundlage**  
- - **Speicherdauer und Steuerungsoptionen**  
+    - **Erhobene Daten**  
+    - **Zwecke der Datenverarbeitung**  
+    - **Rechtsgrundlage**  
+    - **Speicherdauer und Steuerungsoptionen**  
 - **4. Erhebung von Daten von Nutzern und Mitgliedern über die Nutzung unserer Online-Services innerhalb und außerhalb von Communities**  
- - **Erhobene Daten**  
- - **Zwecke der Datenverarbeitung**  
- - **Rechtsgrundlage**  
- - **Speicherdauer und Steuerungsoptionen**  
+    - **Erhobene Daten**  
+    - **Zwecke der Datenverarbeitung**  
+    - **Rechtsgrundlage**  
+    - **Speicherdauer und Steuerungsoptionen**  
 - **5. Erhebung von personenbezogenen Daten über Mitglieder (5-9) innerhalb von Communities durch Organisationen als Kunden von Unaty**  
 - **6. Erhebung von personenbezogenen Daten über Kunden von Ownern durch Unaty**  
- - **Erhobene Daten**  
- - **Zwecke der Datenverarbeitung**  
- - **Rechtsgrundlage**  
- - **Speicherdauer und Steuerungsoptionen**  
+    - **Erhobene Daten**  
+    - **Zwecke der Datenverarbeitung**  
+    - **Rechtsgrundlage**  
+    - **Speicherdauer und Steuerungsoptionen**  
 - **Vertragsschluss und Zustimmung zu dieser Datenschutzerklärungen**  
 - **Rechte betroffener Personen und wie diese wahrgenommen werden können**  
- - **A. Widerruf der Einwilligung**  
- - **B. Weitere Betroffenenrechte**  
- - **C. Kontaktwege**  
- - **D. Recht auf Beschwerde bei einer Aufsichtsbehörde**  
+    - **A. Widerruf der Einwilligung**  
+    - **B. Weitere Betroffenenrechte**  
+    - **C. Kontaktwege**  
+    - **D. Recht auf Beschwerde bei einer Aufsichtsbehörde**  
 
 ***
 

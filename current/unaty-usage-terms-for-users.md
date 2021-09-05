@@ -7,10 +7,10 @@
 - **Commitment to customer decisions for members**  
 - **Business relationship between customers, users, and Unaty**  
 - **General terms of use**  
- - **Legal capacity of the users**  
- - **Acceptance of the Unaty + Community Code of Conduct.**  
- - **Scope inside and outside communities**  
- - **Intervention in the use in case of violations**  
+    - **Legal capacity of the users**  
+    - **Acceptance of the Unaty + Community Code of Conduct.**  
+    - **Scope inside and outside communities**  
+    - **Intervention in the use in case of violations**  
 - **Liability**  
 - **Emails and Unaty messages**  
 - **Privacy Policy**  

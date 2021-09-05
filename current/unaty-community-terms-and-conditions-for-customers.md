@@ -5,31 +5,31 @@
 - **Preamble**   
 - **Reference to definitions of contractual objects, roles, and processes**   
 - **Subject of the contract**   
- - **Services on the Unaty online platform**   
- - **Change of services and benefits**   
+    - **Services on the Unaty online platform**   
+    - **Change of services and benefits**   
 - **Conclusion of contract**   
- - **Conclusion of contract by the customer: Creation of a community by an owner on behalf of a customer**   
+    - **Conclusion of contract by the customer: Creation of a community by an owner on behalf of a customer**   
 - **Use of the services**   
- - **The owner as the role of the customer&#39;s representative in the community**   
- - **Members of the community**   
- - **Availability and Service Level Agreement**   
- - **Duty to cooperate**   
+    - **The owner as the role of the customer&#39;s representative in the community**   
+    - **Members of the community**   
+    - **Availability and Service Level Agreement**   
+    - **Duty to cooperate**   
 - **Usage options and Fees**   
 - **Terms of payment**   
- - **Payment methods**   
- - **Cooperation with our payment service provider**   
+    - **Payment methods**   
+    - **Cooperation with our payment service provider**   
 - **Cancellation and termination**   
- - **Contract period**   
- - **Ordinary termination for cause**   
- - **Ordinary termination without reason**   
- - **Consequences of termination**   
- - **Extraordinary termination**   
- - **Termination**   
+    - **Contract period**   
+    - **Ordinary termination for cause**   
+    - **Ordinary termination without reason**   
+    - **Consequences of termination**   
+    - **Extraordinary termination**   
+    - **Termination**   
 - **Liability**   
 - **Retention of title and copyrights/rights of use**   
- - **Retention of title**   
- - **Copyright and rights of use**   
- - **Rights to improvement suggestions**   
+    - **Retention of title**   
+    - **Copyright and rights of use**   
+    - **Rights to improvement suggestions**   
 - **Confidentiality**   
 - **Emails and Unaty notifications**   
 - **Changes to the terms and conditions for customers**   

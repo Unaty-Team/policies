@@ -5,31 +5,31 @@
 - **Präambel**   
 - **Bezugnahme auf Definitionen vertraglicher Objekte, Rollen und Prozesse**   
 - **Vertragsgegenstand**   
- - **Services auf der Unaty Online-Plattform**   
- - **Änderung der Services und Leistungen**   
+    - **Services auf der Unaty Online-Plattform**   
+    - **Änderung der Services und Leistungen**   
 - **Vertragsschluss**   
- - **Vertragsschluss durch den Kunden: Erstellung einer Community durch einen Owner im Namen eines Kunden**   
+    - **Vertragsschluss durch den Kunden: Erstellung einer Community durch einen Owner im Namen eines Kunden**   
 - **Nutzung der Services**   
- - **Der Owner als Rolle des Vertreters des Kunden in der Community**   
- - **Mitglieder in der Community**   
- - **Verfügbarkeit und Service Level Agreement**   
- - **Mitwirkungspflichten**   
+    - **Der Owner als Rolle des Vertreters des Kunden in der Community**   
+    - **Mitglieder in der Community**   
+    - **Verfügbarkeit und Service Level Agreement**   
+    - **Mitwirkungspflichten**   
 - **Nutzungsoptionen und Vergütung**   
 - **Zahlungsbedingungen**   
- - **Zahlungsmethoden**   
- - **Zusammenarbeit mit unserem Zahlungsdienstleister**   
+    - **Zahlungsmethoden**   
+    - **Zusammenarbeit mit unserem Zahlungsdienstleister**   
 - **Kündigung und Beendigung**   
- - **Vertragslaufzeit**   
- - **Ordentliche Kündigung aus wichtigem Grund**   
- - **Ordentliche Kündigung ohne wichtigen Grund**   
- - **Folgen der Kündigung**   
- - **Außerordentliche Kündigung**   
- - **Beendigung**   
+    - **Vertragslaufzeit**   
+    - **Ordentliche Kündigung aus wichtigem Grund**   
+    - **Ordentliche Kündigung ohne wichtigen Grund**   
+    - **Folgen der Kündigung**   
+    - **Außerordentliche Kündigung**   
+    - **Beendigung**   
 - **Haftung**   
 - **Eigentumsvorbehalt und Urheber-/Nutzungsrechte**   
- - **Eigentumsvorbehalt**   
- - **Urheber- und Nutzungsrechte**   
- - **Rechte an Verbesserungsverschlägen**   
+    - **Eigentumsvorbehalt**   
+    - **Urheber- und Nutzungsrechte**   
+    - **Rechte an Verbesserungsverschlägen**   
 - **Vertraulichkeit**   
 - **E-Mails und Unaty-Benachrichtigungen**   
 - **Änderungen der Geschäftsbedingungen für Kunden**   

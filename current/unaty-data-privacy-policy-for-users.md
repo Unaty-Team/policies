@@ -5,32 +5,32 @@
 - **Data Controllers for personal data on Unaty**  
 - **1. Collection of personal data of the website visitors of www.getunaty.com**  
 - **2. Collection of personal data from users during the general use of our platform**  
- - **Data collected:**  
- - **Purposes of data processing:**  
- - **Legal basis:**  
- - **Storage duration and control options:**  
+    - **Data collected**  
+    - **Purposes of data processing**  
+    - **Legal basis**  
+    - **Storage duration and control options**  
 - **3. Collection of personal data when contacting Unaty via feedback functions of our online services**  
- - **Data collected**  
- - **Data processing purposes**  
- - **Legal basis**  
- - **Storage duration and control options**  
+    - **Data collected**  
+    - **Data processing purposes**  
+    - **Legal basis**  
+    - **Storage duration and control options**  
 - **4. Collection of data from users and members about the use of our online services within and outside of communities**  
- - **Data collected**  
- - **Data processing purposes**  
- - **Legal basis**  
- - **Storage duration and control options**  
+    - **Data collected**  
+    - **Data processing purposes**  
+    - **Legal basis**  
+    - **Storage duration and control options**  
 - **5. Collection of personal data about members (5-9) within communities by organizations as customers of Unaty**  
 - **6. Collection of personal data about Owners&#39; customers by Unaty**  
- - **Data collected**  
- - **Data processing purposes**  
- - **Legal basis**  
- - **Storage duration and control options**  
+    - **Data collected**  
+    - **Data processing purposes**  
+    - **Legal basis**  
+    - **Storage duration and control options**  
 - **Conclusion of contract and consent to this privacy policy**  
 - **Rights of data subjects and how they can be exercised**  
- - **A. Revocation of consent**  
- - **B. Further data subject rights**  
- - **C. Contact ways**  
- - **D. Right to complain to a supervisory authority**  
+    - **A. Revocation of consent**  
+    - **B. Further data subject rights**  
+    - **C. Contact ways**  
+    - **D. Right to complain to a supervisory authority**  
 
 ***
 

@@ -3,9 +3,9 @@
 ***
 
 - **Our binding Code of Conduct = This is how we want to work together**   
- - **Commandments = You must follow this on Unaty**   
- - **Prohibitions = You are not allowed to do this on Unaty**   
- - **Contact Unaty**   
+    - **Commandments = You must follow this on Unaty**   
+    - **Prohibitions = You are not allowed to do this on Unaty**   
+    - **Contact Unaty**   
 
 ***
 

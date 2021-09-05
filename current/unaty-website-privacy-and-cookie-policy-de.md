@@ -4,16 +4,16 @@
 
 - **Verantwortliche für die Erhebung und Verarbeitung personenbezogener Daten auf www.getunaty.com**  
 - **Erhebung personenbezogener Daten der Besucher von www.getunaty.com**  
- - **Log-Files**  
- - **Analysen mit Cookies und Tagmanager**  
+    - **Log-Files**  
+    - **Analysen mit Cookies und Tagmanager**  
 - **Erhebung von personenbezogenen Daten bei der Kontaktaufnahme mit Unaty über die Website**  
- - **Newsletter und Updates erhalten**  
+    - **Newsletter und Updates erhalten**  
 - **Vertragsschluss und Zustimmung zu dieser Datenschutzerklärungen**  
 - **Rechte betroffener Personen und wie diese wahrgenommen werden können**  
- - **A. Widerruf der Einwilligung**  
- - **B. Weitere Betroffenenrechte**  
- - **C. Kontaktwege**  
- - **D. Recht auf Beschwerde bei einer Aufsichtsbehörde**  
+    - **A. Widerruf der Einwilligung**  
+    - **B. Weitere Betroffenenrechte**  
+    - **C. Kontaktwege**  
+    - **D. Recht auf Beschwerde bei einer Aufsichtsbehörde**  
 
 ***
 
