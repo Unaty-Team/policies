@@ -4,17 +4,17 @@
 
 - **Präambel**   
 - **Abschnitt I**   
- - **Klausel 1: Zweck und Anwendungsbereich**   
- - **Klausel 2: Unabänderbarkeit der Klauseln**   
- - **Klausel 3: Auslegung**   
- - **Klausel 4: Vorrang**   
+    - **Klausel 1: Zweck und Anwendungsbereich**   
+    - **Klausel 2: Unabänderbarkeit der Klauseln**   
+    - **Klausel 3: Auslegung**   
+    - **Klausel 4: Vorrang**   
 - **Abschnitt II: Pflichten der Parteien**   
- - **Klausel 6: Beschreibung der Verarbeitung**   
- - **Klausel 7: Pflichten der Parteien**   
- - **Klausel 8: Unterstützung des Verantwortlichen**   
- - **Klausel 9: Meldung von Verletzungen des Schutzes personenbezogener Daten**   
+    - **Klausel 6: Beschreibung der Verarbeitung**   
+    - **Klausel 7: Pflichten der Parteien**   
+    - **Klausel 8: Unterstützung des Verantwortlichen**   
+    - **Klausel 9: Meldung von Verletzungen des Schutzes personenbezogener Daten**   
 - **Abschnitt III: Schlussbestimmungen**   
- - **Klausel 10: Verstöße gegen die Klauseln und Beendigung des Vertrags**   
+    - **Klausel 10: Verstöße gegen die Klauseln und Beendigung des Vertrags**   
 - **Anhang I: Liste der Parteien**   
 - **Anhang II: Beschreibung der Verarbeitung**   
 - **Anhang III: Technische und organisatorische Maßnahmen, einschließlich zur Gewährleistung der Sicherheit der Daten**   
