@@ -40,7 +40,7 @@ Diese Richtlinie legt dar, welche Daten Unaty über seine Internetseiten und Onl
 
 ![V1_Unaty-Explainer_DE](./images/V1_Unaty-Explainer_DE.jpg)
 
-Für einen Teil der hier beschriebenen, auf der Unaty Plattform und erhobenen personenbezogenen Daten ist die Unaty Technologies GmbH, Unertlstraße 27, D-80803 München, Verantwortlicher. Nähere Informationen zur Abgrenzung des Unternehmens, der Website und unserer Online-Plattform und -Services findest Du unter Übersicht und Definitionen (Diese verlinkten Seiten sind als Anhang und Teil dieses Vertrages zu betrachten)
+Für einen Teil der hier beschriebenen, auf der Unaty Plattform und erhobenen personenbezogenen Daten ist die Unaty Technologies GmbH, Unertlstraße 27, D-80803 München, Verantwortlicher. Nähere Informationen zur Abgrenzung des Unternehmens, der Website und unserer Online-Plattform und -Services findest Du unter <a href="https://welcome.getunaty.com/policies/unaty-overview-and-definitions/" target="_blank">Übersicht und Definitionen</a> (Diese verlinkten Seiten sind als Anhang und Teil dieses Vertrages zu betrachten)
 
 Wie in der Abbildung illustriert, ist Unaty Technologies nicht der Verantwortliche für alle Erhebungen personenbezogener Daten auf der Unaty Plattform. Wir unterscheiden folgende Datenerhebungen:
 
