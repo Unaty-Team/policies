@@ -53,7 +53,7 @@ Welcome to Unaty.
 
 ## Reference to definitions of contractual objects, roles, and processes
 
-This contract refers to the definitions explained in these pages, they are annex and therefore part of this contract.
+This contract refers to the definitions explained in <a href="https://welcome.getunaty.com/policies/unaty-overview-and-definitions/" target="_blank">these pages</a>, they are annex and therefore part of this contract.
 
 ## Subject of the contract
 

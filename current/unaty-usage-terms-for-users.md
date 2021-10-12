@@ -29,7 +29,7 @@ These Terms of Use for Users (the &quot;Terms of Use&quot;) govern your access t
 
 ## Reference to definitions of contractual objects, roles, and processes
 
-This Agreement refers to the definitions explained in these pages, they are annex and thus part of this Agreement. In particular, it should be noted that user includes all users of the online services and invited members of communities.
+This Agreement refers to the definitions explained in <a href="https://welcome.getunaty.com/policies/unaty-overview-and-definitions/" target="_blank">these pages</a>, they are annex and thus part of this Agreement. In particular, it should be noted that user includes all users of the online services and invited members of communities.
 
 ## Liability
 

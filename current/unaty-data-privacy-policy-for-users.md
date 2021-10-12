@@ -40,7 +40,7 @@ This policy sets forth what information Unaty collects from users and members th
 
 ![V1_Unaty-Explainer_EN](./images/V1_Unaty-Explainer_EN.jpg)
 
-Unaty Technologies GmbH, Unertlstraße 27, D-80803 Munich, Germany, is the data controller for some of the personal data described here that is collected on the Unaty platform and services. For more information on the delimitation of the company, the website, and our online platform and services, please see Overview and Definitions (These linked pages are to be considered as an appendix and part of this agreement).
+Unaty Technologies GmbH, Unertlstraße 27, D-80803 Munich, Germany, is the data controller for some of the personal data described here that is collected on the Unaty platform and services. For more information on the delimitation of the company, the website, and our online platform and services, please see <a href="https://welcome.getunaty.com/policies/unaty-overview-and-definitions/" target="_blank">Overview and Definitions</a> (These linked pages are to be considered as an appendix and part of this agreement).
 
 As illustrated in the figure, Unaty Technologies is not the Data controller for all collections of personal data on the Unaty Platform. We distinguish the following data collections:
 

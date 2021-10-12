@@ -19,7 +19,7 @@
 
 ## Verantwortliche für die Erhebung und Verarbeitung personenbezogener Daten auf [www.getunaty.com](http://www.getunaty.com/)
 
-Für die hier beschriebenen, auf der öffentlichen Website getunaty.com erhobenen und verarbeiteten personenbezogenen Daten ist die Unaty Technologies GmbH, Unertlstraße 27, D-80803 München, Verantwortlicher. Nähere Informationen zur Abgrenzung des Unternehmens, der Website und unserer Online-Plattform und -Services findest Du unter Übersicht und Definitionen. Diese verlinkten Seiten sind als Anhang und Teil dieses Vertrages zu betrachten.
+Für die hier beschriebenen, auf der öffentlichen Website getunaty.com erhobenen und verarbeiteten personenbezogenen Daten ist die Unaty Technologies GmbH, Unertlstraße 27, D-80803 München, Verantwortlicher. Nähere Informationen zur Abgrenzung des Unternehmens, der Website und unserer Online-Plattform und -Services findest Du unter <a href="https://welcome.getunaty.com/policies/unaty-overview-and-definitions/" target="_blank">Übersicht und Definitionen</a>. Diese verlinkten Seiten sind als Anhang und Teil dieses Vertrages zu betrachten.
 
 Bei Fragen zur Datenverarbeitung, zu Ihren Rechten oder zur Datenschutzerklärung steht Ihnen auch unser Datenschutzbeauftragter Fabian Ahrens gerne zur Seite. Diesen erreichen Sie unter: [dataprivacy@getunaty.com](mailto:dataprivacy@getunaty.com) .
 

@@ -29,7 +29,7 @@ Herzlich willkommen auf Unaty.
 
 ## Bezugnahme auf Definitionen vertraglicher Objekte, Rollen und Prozesse
 
-Dieser Vertrag nimmt Bezug auf die in diesen Seiten erläuterten Definitionen, sie sind Anhang und damit Teil dieses Vertrages. Insbesondere ist darauf hinzuweisen, dass Nutzer alle Benutzer der Onlineservices und eingeladene Mitglieder von Communities einschließt.
+Dieser Vertrag nimmt Bezug auf die in <a href="https://welcome.getunaty.com/policies/unaty-overview-and-definitions/" target="_blank">diesen Seiten</a> erläuterten Definitionen, sie sind Anhang und damit Teil dieses Vertrages. Insbesondere ist darauf hinzuweisen, dass Nutzer alle Benutzer der Onlineservices und eingeladene Mitglieder von Communities einschließt.
 
 ## Verbindlichkeit
 

@@ -20,7 +20,7 @@
 
 ## Entities responsible for the collection and processing of personal data on www.getunaty.com
 
-Unaty Technologies GmbH, Unertlstraße 27, D-80803 Munich, Germany, is the Data Controller of the personal data collected and processed on the public website getunaty.com as described here. For more information on the delimitation of the company, the website, and our online platform and services, please see Overview and Definitions. These linked pages are to be considered as an attachment and part of this agreement.
+Unaty Technologies GmbH, Unertlstraße 27, D-80803 Munich, Germany, is the Data Controller of the personal data collected and processed on the public website getunaty.com as described here. For more information on the delimitation of the company, the website, and our online platform and services, please see <a href="https://welcome.getunaty.com/policies/unaty-overview-and-definitions/" target="_blank">Overview and Definitions</a>. These linked pages are to be considered as an attachment and part of this agreement.
 
 If you have any questions regarding data processing, your rights, or the data protection declaration, our data protection officer Fabian Ahrens will be happy to assist you. You can reach him at: [dataprivacy@getunaty.com](mailto:dataprivacy@getunaty.com).
 
